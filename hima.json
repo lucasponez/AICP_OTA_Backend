@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1604853077",
-      "filename": "aicp_hima_r-16.0-UNOFFICIAL-20201108.zip",
-      "id": "77774dad77095ff79da730ca8a797291",
+      "datetime": "1606727089",
+      "filename": "aicp_hima_r-16.0-UNOFFICIAL-20201130.zip",
+      "id": "2e0949e57013d2a30e27b3015ebd8261",
       "romtype": "UNOFFICIAL",
-      "size": "668748542",
-      "url": "https://mirror.codebucket.de/claymore1297/AICP/16.0/hima/aicp_hima_r-16.0-UNOFFICIAL-20201108.zip",
+      "size": "675324858",
+      "url": "https://mirror.codebucket.de/claymore1297/AICP/16.0/hima/aicp_hima_r-16.0-UNOFFICIAL-20201130.zip",
       "version": "r-16.0"
     }
   ]
