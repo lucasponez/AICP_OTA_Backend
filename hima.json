@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1606727089",
-      "filename": "aicp_hima_r-16.0-UNOFFICIAL-20201130.zip",
-      "id": "2e0949e57013d2a30e27b3015ebd8261",
-      "romtype": "UNOFFICIAL",
-      "size": "675324858",
-      "url": "https://mirror.codebucket.de/claymore1297/AICP/16.0/hima/aicp_hima_r-16.0-UNOFFICIAL-20201130.zip",
-      "version": "r-16.0"
+      "datetime": "",
+      "filename": "hima.json",
+      "id": "fe4d3b61d997a6f2c4d131fe2c2bcff9",
+      "romtype": "hima.json",
+      "size": "376",
+      "url": "/home/julian/android/aicp/16.0/out/target/product/hima/aicp_hima_r-16.0-UNOFFICIAL-20201211.zip/hima.json/hima/hima.json",
+      "version": "hima.json"
     }
   ]
 }
