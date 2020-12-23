@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "",
-      "filename": "hima.json",
-      "id": "fe4d3b61d997a6f2c4d131fe2c2bcff9",
-      "romtype": "hima.json",
-      "size": "376",
-      "url": "/home/julian/android/aicp/16.0/out/target/product/hima/aicp_hima_r-16.0-UNOFFICIAL-20201211.zip/hima.json/hima/hima.json",
-      "version": "hima.json"
+      "datetime": "1608725801",
+      "filename": "aicp_hima_r-16.1-UNOFFICIAL-20201223.zip",
+      "id": "108b2595b44204bbe96ea6a1b9a3271c",
+      "romtype": "UNOFFICIAL",
+      "size": "684604030",
+      "url": "hima.json/16.1/hima/aicp_hima_r-16.1-UNOFFICIAL-20201223.zip",
+      "version": "r-16.1"
     }
   ]
 }
