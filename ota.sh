@@ -1,6 +1,6 @@
 #!/bin/bash
 
-baseurl="https://mirror.codebucket.de/claymore1297/AICP/"
+baseurl="https://evensharksneedwater.com/aicp/lucas/"
 
 if [ "$1" == "" ]; then
 	>&2 echo "Usage: $0 <filename> [<baseurl>]"
