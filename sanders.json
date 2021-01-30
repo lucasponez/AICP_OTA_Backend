@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": "1612017605",
-      "filename": "aicp_sanders_r-16.1-OTATEST-20210130.zip",
+      "filename": "aicp_sanders_r-16.1-EXPERIMENTAL-20210130.zip",
       "id": "78aba525941c42583c361b7878fb1fe3",
-      "romtype": "OTATEST",
+      "romtype": "EXPERIMENTAL",
       "size": "841482240",
-      "url": "https://evensharksneedwater.com/aicp/lucas/aicp_sanders_r-16.1-OTATEST-20210130.zip",
+      "url": "https://evensharksneedwater.com/aicp/lucas/aicp_sanders_r-16.1-EXPERIMENTAL-20210130.zip",
       "version": "r11.1"
     }
   ]
